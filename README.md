@@ -30,7 +30,7 @@ We’ve currently implemented the following end point in this repository which c
 
   
 
- - unfamilier with ES queries? -> [click here]('https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html')
+ - unfamilier with ES queries? -> [click here](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html)
 
 - Ready to code? -> [link to repo]('')
 
