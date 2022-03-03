@@ -50,9 +50,9 @@ We’ve currently implemented the following end point in this repository which c
 `Supported OS: Linux`
 `Python version: 3.x.x`
 - Install all the requirements
-``pip install -r requirements.txt``
+```pip install -r requirements.txt```
 - Run the service
-- ``gunicorn --bind 0.0.0.0:9090 run:app -k uvicorn.workers.UvicornWorker``
+```gunicorn --bind 0.0.0.0:9090 run:app -k uvicorn.workers.UvicornWorker```
 
 #### Release Notes:
 
