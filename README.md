@@ -65,8 +65,8 @@ We’ve currently implemented the following end point in this repository which c
 
 ### API end points  
   
-  - To get all the list of endpoints make sure to run the sevice and the visit [docs]('http://localhost:9090/docs')
-  and [redoc]('http://localhost:9090/redoc')
+  - To get all the list of endpoints make sure to run the sevice and the visit [docs](http://localhost:9090/docs)
+  and [redoc](http://localhost:9090/redoc)
   
 ### Issue/Bug report template
 Before reporting an issue, make sure you've searched for similar one that was already created. 
