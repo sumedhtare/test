@@ -64,7 +64,8 @@ gunicorn --bind 0.0.0.0:9090 run:app -k uvicorn.workers.UvicornWorker
 
 
 #### License:
-- `link`
+
+- [Link](https://github.com/sumedhtare/test/blob/main/LICENSE)
   
 
 ### API end points  
